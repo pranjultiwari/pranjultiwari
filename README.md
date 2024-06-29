@@ -13,8 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Pranjul2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Pranjul2103" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pranjultiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-musaiyab-012a5b233" height="30" width="40" /></a>
-<a href="https://instagram.com/musaiyab_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranjultiwari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranjultiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjultiwari" height="30" width="40" /></a>
+<a href="https://instagram.com/pranjul_tiwariiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranjultiwari" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Pranjul2103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranjul2103" height="30" width="40" /></a>
 </p>
 
@@ -35,6 +35,14 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjultiwari&show_icons=true&locale=en&layout=compact" alt="pranjultiwari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjultiwari&" alt="pranjultiwari" /></p>
+# Github Activity📊:
+ 
+ <table>
+   <tr>
+     <td><img src="https://github-readme-stats.vercel.app/api?username=pranjultiwari&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjultiwari&theme=radical&layout=compact"  display=block width=100% height=auto  alt="2" ></td>
+    </tr> 
+    <tr>
+       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjultiwari&theme=tokyonight"  display=block width=100% height=auto alt="3" >          </td>
+   </tr>
+ </table>
