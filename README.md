@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://x.com/Pranjul2103" target="blank"><img src="https://img.shields.io/twitter/follow/pranjul2103?logo=xr&style=for-the-badge" alt="pranjul_2103" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Backend & DevOps**
+- 🌱 I’m currently learning **Advanced Backend**
 
 - 💬 Ask me about **C++,DSA & MERN**
 
